@@ -147,3 +147,8 @@ System.TypeInitializationException was unhandled by user code
            at SQLitePCL.raw..cctor()
       InnerException:
 ```      
+
+# Path to victory
+`        "suppressParent": "none"`
+
+But why should this even be needed?
