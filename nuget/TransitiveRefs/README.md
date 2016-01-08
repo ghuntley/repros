@@ -1,6 +1,6 @@
 # How to create MyCoolApp
 
-* Projects created and added MSFT Visual C++ 2013 Runtime for UWP
+* Projects created and added MSFT Visual C++ 2015 Runtime for UWP
 * On each project
 ```
 PM> install-package splat
