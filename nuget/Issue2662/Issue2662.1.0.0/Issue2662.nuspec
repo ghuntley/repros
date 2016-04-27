@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Issue2662</id>
+    <version>1.0.0</version>
+    <authors>ghuntley</authors>
+    <owners>ghuntley</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>https://github.com/NuGet/Home/issues/2662</description>
+    <language>en-us</language>
+  </metadata>
+</package>

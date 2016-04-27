@@ -1,0 +1,10 @@
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/ibtool-manifests/Main.storyboardc
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/ibtool/Main.storyboardc/Info.plist
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/ibtool/Main.storyboardc/MainMenu.nib
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/bin/Release/MacMobileApp.exe.mdb
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/bin/Release/MacMobileApp.exe
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/MacMobileApp.exe
+/Users/ghuntley/Projects/Issue2662/MacMobileApp/obj/Release/MacMobileApp.exe.mdb

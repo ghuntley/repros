@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Issue2662</id>
+    <authors>ghuntley</authors>
+    <version>1.0.0</version>
+    <description>https://github.com/NuGet/Home/issues/2662</description>
+    <language>en-us</language>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <!-- Mac Mobile Unified API -->
+    <file src="MacMobileLibrary/bin/Release/MacMobileLibrary.dll" target="lib/Xamarin.Mac20/MacMobileLibrary.dll" />
+    <!-- Mac 4.5 Unified API -->
+    <file src="Mac45Library/bin/Release/Mac45Library.dll" target="lib/XM45/Mac45Library.dll" />
+    <!-- .NET 4.5 -->
+    <file src="Net45Library/bin/Release/Net45Library.dll" target="lib/Net45/Net45Library.dll" />
+    <!-- Source -->
+    <file src="*.cs" target="src" />
+  </files>
+</package>

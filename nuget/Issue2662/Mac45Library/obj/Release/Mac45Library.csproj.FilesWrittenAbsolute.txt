@@ -1,0 +1,5 @@
+/Users/ghuntley/Projects/Issue2662/Mac45Library/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/ghuntley/Projects/Issue2662/Mac45Library/bin/Release/Mac45Library.dll.mdb
+/Users/ghuntley/Projects/Issue2662/Mac45Library/bin/Release/Mac45Library.dll
+/Users/ghuntley/Projects/Issue2662/Mac45Library/obj/Release/Mac45Library.dll
+/Users/ghuntley/Projects/Issue2662/Mac45Library/obj/Release/Mac45Library.dll.mdb

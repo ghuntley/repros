@@ -1,0 +1,5 @@
+/Users/ghuntley/Projects/Issue2662/MacMobileLibrary/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/ghuntley/Projects/Issue2662/MacMobileLibrary/bin/Release/MacMobileLibrary.dll.mdb
+/Users/ghuntley/Projects/Issue2662/MacMobileLibrary/bin/Release/MacMobileLibrary.dll
+/Users/ghuntley/Projects/Issue2662/MacMobileLibrary/obj/Release/MacMobileLibrary.dll
+/Users/ghuntley/Projects/Issue2662/MacMobileLibrary/obj/Release/MacMobileLibrary.dll.mdb
