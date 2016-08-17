@@ -25,7 +25,7 @@ namespace TimeOperationThrowsNotImplementedException.iOS
 				.MinimumLevel.Verbose()
 				.CreateLogger();
 
-			using (Operation.Time("Launching application"))
+			using (OperationDebug.Time("Launching application"))
 			{
 				LoadApplication(new App());
 			}
